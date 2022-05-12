@@ -1,0 +1,8 @@
+C:\Users\Rui Lagos\Desktop\Nova pasta\CSharp_revisoes\obj\Debug\CSharp_revisoes.csproj.AssemblyReference.cache
+C:\Users\Rui Lagos\Desktop\Nova pasta\CSharp_revisoes\obj\Debug\CSharp_revisoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rui Lagos\Desktop\Nova pasta\CSharp_revisoes\obj\Debug\CSharp_revisoes.csproj.CoreCompileInputs.cache
+C:\Users\Rui Lagos\Desktop\Nova pasta\CSharp_Revisoes\bin\Debug\CSharp_revisoes.exe.config
+C:\Users\Rui Lagos\Desktop\Nova pasta\CSharp_Revisoes\bin\Debug\CSharp_revisoes.exe
+C:\Users\Rui Lagos\Desktop\Nova pasta\CSharp_Revisoes\bin\Debug\CSharp_revisoes.pdb
+C:\Users\Rui Lagos\Desktop\Nova pasta\CSharp_Revisoes\obj\Debug\CSharp_revisoes.exe
+C:\Users\Rui Lagos\Desktop\Nova pasta\CSharp_Revisoes\obj\Debug\CSharp_revisoes.pdb
